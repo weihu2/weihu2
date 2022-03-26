@@ -105,7 +105,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=geekswg&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=weihu2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
  
 <hr>
@@ -156,12 +156,5 @@ Here are some ideas to get you started:
 - 👻 暴富哈哈哈~~~
 
 <br />
-<div>
-  <a href="https://github.com/GuoyiZhang"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=weihu2&show_icons=true&theme=gotham" />
-  </a>
-  <a href="https://github.com/GuoyiZhang"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihu2&show_icons=true&layout=compact&theme=gotham"/>
-  </a>
-</div>
+
 <br />
