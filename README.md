@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   </a>
 </h1>
  
-<h5 align="center">
+<!-- <h5 align="center">
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
   <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
   <code><a href="https://gitee.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
   <code><a href="https://github.com/geekswg" title="Geekswg's GitHhub"><img height="24" src="images/github.svg">  </a></code>
-</h5>
+</h5> -->
 <br>
 <p align="center">
   Hi, I'm weihu
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+ 等待填充
 <!--   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
@@ -113,8 +114,8 @@ Here are some ideas to get you started:
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/geekswg/geekswg" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/geekswg/geekswg.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/weihu2/weihu2" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/weihu2/weihu2.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- 
