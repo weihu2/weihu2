@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekswg.geekswg">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=weihu2.weihu2">
  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Geekswg
-  <br>
+  Hi, I'm weihu
+<!--   <br>
   🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
   <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department
@@ -47,14 +47,14 @@ Here are some ideas to get you started:
   <br>
   💬 Ask me anything about from <a href="https://github.com/geekswg/geekswg/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a>
+  📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a> -->
 </p>
  
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
+<!--   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
   <!-- 
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
@@ -92,16 +92,16 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=geekswg&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=weihu2&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=geekswg&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=weihu2&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekswg&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihu2&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br>
 -->
 <h4 align="center">
-  <a href="https://github.com/geekswg?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/weihu2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 [comment]: <> (https://www.shields.io/category/size)
@@ -146,22 +146,22 @@ Here are some ideas to get you started:
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🚧 基于Java、vue.js、solidity开发全栈项目
-- 🤦‍♂️ 专注数据上链的区块链全栈开发工程师
-- 😕 使用联盟链做数据溯源
+- 🚧 基于Java、vue.js开发全栈项目
+<!-- - 🤦‍♂️ 专注数据上链的区块链全栈开发工程师 -->
+<!-- - 😕 使用联盟链做数据溯源 -->
 - 🤔 学习Python做量化交易系统
 - 🐱‍🏍 学习架构知识
-- ✍️ 学习游戏Unity3D游戏开发
+<!-- - ✍️ 学习游戏Unity3D游戏开发 -->
 - 🤪 考研
 - 👻 暴富哈哈哈~~~
 
 <br />
 <div>
   <a href="https://github.com/GuoyiZhang"> 
-    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=GuoyiZhang&show_icons=true&theme=gotham" />
+    <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=weihu2&show_icons=true&theme=gotham" />
   </a>
   <a href="https://github.com/GuoyiZhang"> 
-    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuoyiZhang&show_icons=true&layout=compact&theme=gotham"/>
+    <img align="right"  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weihu2&show_icons=true&layout=compact&theme=gotham"/>
   </a>
 </div>
 <br />
